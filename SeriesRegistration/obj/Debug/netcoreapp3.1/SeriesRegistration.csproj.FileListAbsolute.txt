@@ -1,0 +1,13 @@
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.exe
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.deps.json
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.runtimeconfig.json
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.runtimeconfig.dev.json
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.dll
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\bin\Debug\netcoreapp3.1\SeriesRegistration.pdb
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.csprojAssemblyReference.cache
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.dll
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.pdb
+C:\Users\Dudu\Desktop\projeto1\SeriesRegistration\obj\Debug\netcoreapp3.1\SeriesRegistration.genruntimeconfig.cache
