@@ -89,21 +89,6 @@ namespace SeriesRegistration
                     foreach(int i in Enum.GetValues(typeof(Genre)))
                         Console.WriteLine($"{i}- {Enum.GetName(typeof(Genre), i)}");
 
-                    /*Console.WriteLine("1- Action");
-                    Console.WriteLine("2- Adventure");
-                    Console.WriteLine("3- Comedy");
-                    Console.WriteLine("4- Documentary");
-                    Console.WriteLine("5- Drama");
-                    Console.WriteLine("6- Spy");
-                    Console.WriteLine("7- Western");
-                    Console.WriteLine("8- Fantasy");
-                    Console.WriteLine("9- Syfy");
-                    Console.WriteLine("10- Musical");
-                    Console.WriteLine("11- Romance");
-                    Console.WriteLine("12- Thriller");
-                    Console.WriteLine("13- Horror");
-                    Console.WriteLine();*/
-
                     Genre genre = (Genre) Enum.Parse(typeof(Genre), Console.ReadLine());
                     Console.WriteLine();
 
