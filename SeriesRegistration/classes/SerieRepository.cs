@@ -10,7 +10,6 @@ namespace SeriesRegistration
         public List<Serie> List()
         {
             return listSerie;
-            //TODO
         }
         public Serie ReturnsById(int id)
         {

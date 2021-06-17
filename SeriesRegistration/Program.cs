@@ -45,7 +45,6 @@ namespace SeriesRegistration
                                 Console.WriteLine("The list is empty");
                         }
                     }
-                    //TODO
                 }
                 else if(UserOption == "2")
                 {
